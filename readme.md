@@ -1,2 +1,2 @@
-Name:KARTHICK
-Github Username:karthick112002
+name: karthick112002
+Email:rrkarthik01@gmail.com
