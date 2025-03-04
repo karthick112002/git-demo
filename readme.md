@@ -1,2 +1,3 @@
-name: karthick112002
+name: KARTHICK
+Work: WEB DEVELOPER
 Email:rrkarthik01@gmail.com
